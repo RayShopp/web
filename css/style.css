@@ -70,7 +70,7 @@ body, html {
 #textBox {
   display: none;
   opacity: 0;
-  background-color: rgba(18, 18, 18, 0.8);
+  background-color: rgba(223, 197, 0, 0.8);
   backdrop-filter: blur(10px);
   width: 80%;
   max-width: 800px;
